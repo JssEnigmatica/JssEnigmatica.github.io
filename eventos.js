@@ -1,0 +1,1 @@
+let ValorConfirm = console.log("https://translate.google.com.br/?hl=pt-BR")
